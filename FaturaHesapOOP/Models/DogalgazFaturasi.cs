@@ -17,6 +17,8 @@ namespace FaturaHesapOOP.Models
         {
 
         }
+
+        //Deneme
         public override decimal Hesapla()
         {
             decimal birimToplam=KullanımMiktarı*this.birimFiyat;
